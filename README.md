@@ -119,4 +119,138 @@ Compute
       Azure Arc
       Machines - Azure Arc
 
-      
+
+
+All services
+
+Containers
+
+  Container infrastructure
+      Container instances
+      Container registries      
+
+  Container management
+      Kubernetes fleet manager
+      Kubernetes services
+      Kubernetes services - Automatic (Preview)
+      Azure Red Hat OpenShift clusters
+      Service Fabric clusters
+      Service Fabric managed clusters
+
+  Containerized applications
+      App Configuration
+      Container App Jobs
+      Container Apps
+
+
+
+
+All services
+
+Databases
+   
+  Build new applications
+      Azure Cosmos DB
+      Azure Database for PostgreSQL flexible servers
+      Azure SQL Database Hyperscale
+
+  Modernize existing applications
+      Azure Cosmos DB for MongoDB (vCore)
+      Azure Database for MySQL flexible servers
+      Azure Managed Instance for Apache Cassandra
+      Oracle Database@Azure
+      SQL databases
+      SQL managed instances
+      SQL virtual machines
+
+  Hybrid data services
+      Azure Arc data controllers
+      PostgreSQL servers – Azure Arc (Preview)
+      SQL managed instances - Azure Arc
+      SQL Server - Azure Arc
+
+  Additional data services
+      Azure Cache for Redis
+      Azure Database Migration Services
+      Elastic Job agents
+      Managed databases
+      SQL Server stretch databases
+
+
+
+All services
+
+DevOps
+
+  DevOps tools
+      Chaos Experiments
+      Chaos Studio
+      Azure Deployment Environments
+      Dev centers
+      Azure DevOps organizations
+      DevTest Labs
+      GitHub
+      Azure Lab Services
+      Azure Load Testing
+      Managed DevOps Pools (Preview)
+      Microsoft Dev Box
+      Network connections
+      Playwright Testing (Preview)
+      Projects
+      Targets Management
+
+  Integration
+      API Connections
+      API Management services
+      App Configuration
+
+  Monitoring
+      Application Insights
+      Datadog - An Azure Native ISV Service (Partner)
+      Elastic Cloud (Elasticsearch) – An Azure Native ISV Service (Partner)
+      Monitor
+      Azure Native Dynatrace Service (Partner)
+      Azure Native New Relic Service (Partner)
+
+
+
+All services
+
+General
+
+  Azure Resource Management
+      All resources
+      Dashboard hub (Preview)
+      Deploy a custom template
+      Management groups
+      Marketplace
+      Recent
+      Resource Explorer
+      Resource Graph Explorer
+      Resource groups
+      Resource Manager (Preview) 
+      SaaS (classic)
+      Subscriptions
+      Tags
+      Templates (Preview)
+      Virtual Instances for SAP solutions
+
+  Billing
+      Cost Management + Billing
+      Free services
+      Quotas
+      Reservations
+
+  Get started
+      Education
+      Preview features (Preview) 
+      Quickstart Center
+
+  Help and support
+      Help + support
+      Service Health
+
+
+
+
+
