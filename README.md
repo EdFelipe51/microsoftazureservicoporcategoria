@@ -324,6 +324,8 @@ Identity
       Microsoft Entra ID Security
       Verified ID
 
+
+
 All services
 
 Integration
@@ -336,5 +338,347 @@ Integration
       Logic apps
       Logic Apps Custom Connector
 
+  API Management
+      API Connections
+      Azure API for FHIR
+      API Management services
+      FHIR service
+      Health Data Services workspace
 
+  Messaging services
+      Apache Kafka® & Apache Flink® on Confluent Cloud™ - An Azure Native ISV Service (Partner)
+      Event Grid
+      Event Hubs
+      Event Hubs Clusters
+      Relays
+      Service Bus
+
+
+
+All services
+
+Internet of things
+
+  Build your IoT solution
+      IoT Central Applications
+      IoT Hub
+
+  Connect and manage devices
+      Device Update for IoT Hubs
+      Azure IoT Hub Device Provisioning Services
+      Microsoft Defender for IoT
+
+  Analyze and transform data
+      Azure Cosmos DB
+      Azure Data Explorer Clusters
+      Azure Digital Twins
+      Event Hubs
+      Function App
+      Storage accounts
+      Stream Analytics jobs
+      Azure Synapse Analytics
+ 
+  Integrate business and AI solutions
+      Azure AI services
+      Logic apps
+      Azure Machine Learning
+      Azure Maps Accounts
+      Azure Maps Creator Resources
+      Power Platform
+      Azure Stack Edge / Data Box Gateway
+
+
+
+All services
+
+Management and governance
+
+  Azure Resource Management
+      Azure Center for SAP solutions
+      Change Analysis
+      Deployment Scripts
+      Diagnostic settings
+      Management groups
+      Azure Monitors for SAP solutions
+      Resource Graph Explorer
+      Resource Graph queries
+      Resource groups
+      Azure Resource Mover
+      Rollouts
+      Subscriptions
+      Tags
+      Template specs
+      Templates (Preview)
+      Virtual Instances for SAP solutions
+
+  Copilot for Azure
+      Copilot in Azure admin center (Preview)
+
+  Azure governance and optimization
+      Advisor
+      Automanage
+      Automation Accounts
+      Blueprints (Preview)
+      Capacity Reservation Groups
+      Carbon optimization (Preview)
+      Cost Management
+      Guest Assignments
+      Policy
+      Azure Update Manager
+
+  Hybrid management and governance
+      Azure Arc
+      Machines - Azure Arc
+      Microsoft Purview accounts
+
+  Service provider tools
+      Customer Lockbox for Microsoft Azure
+      Azure Lighthouse
+      Managed applications center (Preview)
+
+  Device management
+      Intune
+      Intune for Education
+      Managed Desktop
+      Universal Print
+
+  Business continuity and disaster recovery
+      Backup center
+      Backup vaults
+      Business Continuity Center (Preview)
+      Azure Native Qumulo Scalable File Service (Partner)
+      Recovery Services vaults
+
+
+
+All services
+
+Migrate
+
+  Migration tools
+      Azure Database Migration Services
+      Azure Migrate
+
+  Data protection
+      Azure Data Box
+      Recovery Services vaults
+      Azure Stack Edge / Data Box Gateway
+
+
+
+All services
+
+Mixed Reality
+
+      Object Anchors Accounts
+      Remote Rendering Accounts
+      Spatial Anchors
+
+
+
+All services
+
+Monitor
+
+  Detection, triage, and diagnosis
+      Alerts
+      Autoscale
+      Change Analysis
+      Diagnostic settings
+      Log Analytics workspaces
+      Managed Prometheus
+      Metrics
+      Azure Monitor workspaces
+      Azure Native Dynatrace Service (Partner)
+      Azure Workbooks
+
+  Insights
+      Application Insights
+
+  Monitoring tools
+      Activity log
+      Data collection endpoints
+      Data collection rules
+      Database watchers (Preview)
+      Datadog - An Azure Native ISV Service (Partner)
+      Elastic Cloud (Elasticsearch) – An Azure Native ISV Service (Partner)
+      Log Analytics query packs (Preview)
+      Azure Managed Grafana
+      Monitor
+      Azure Monitors for SAP solutions
+      Azure Native New Relic Service (Partner)
+      Network Watcher
+      Service Health
+
+
+
+All services
+
+Networking
+
+  Network foundation
+      Bastions
+      Custom IP Prefixes
+      DNS private resolvers
+      DNS zones
+      NAT gateways
+      Network interfaces
+      Network managers
+      Private DNS zones
+      Private Link
+      Public IP addresses
+      Public IP Prefixes
+      Route tables
+      Virtual networks
+
+  Hybrid connectivity
+      Communications Gateways  
+      Connections
+      ExpressRoute circuits
+      ExpressRoute traffic collectors
+      Local network gateways
+      Mobile Networks
+      Peering Services
+      Peerings
+      Virtual network gateways
+      Virtual WANs
+
+  Network security
+      DDoS protection plans
+      Firewall Manager
+      Firewalls
+      IP Groups
+      Network security groups
+      Network Security Perimeters (Preview)
+      Web Application Firewall policies (WAF)
+
+  Load balancing
+      Application gateways
+      Load balancers
+      Load balancing - help me choose
+
+  Content delivery
+      Front Door and CDN profiles
+      Microsoft Connected Cache for Internet Service Providers
+
+  Monitoring
+      Monitor
+      Network Watcher
+
+  Additional networking services
+      NGINXaaS (Partner)
+
+
+
+All services
+
+Security
+
+  Data and application security
+      App Compliance Automation Tool for Microsoft 365 (Preview)
+      Application security groups
+      Confidential Ledgers
+      Log Analytics workspaces
+      Web Application Firewall policies (WAF)
+
+  Identity and access control
+      Microsoft Entra Domain Services
+      Microsoft Entra ID
+      Microsoft Entra ID Security
+      Microsoft Entra Privileged Identity Management
+      Multifactor authentication
+      Trusted Signing Accounts (Preview)
+
+  Infrastructure and network security
+      Application gateways
+      DDoS protection plans
+      Firewalls
+      Key vaults
+      Network Security Perimeters (Preview)
+      Virtual network gateways   
+
+
+
+   Threat detection and protection
+      Microsoft Defender EASM
+      Microsoft Defender for Cloud
+      Microsoft Defender for IoT
+      Microsoft Sentinel
+
+
+
+All services
+
+Storage
+
+  Hybrid and edge storage
+      Azure Edge Hardware Center
+      Azure Stack Edge / Data Box Gateway
+
+  Object, file, and block storage
+      Disk Accesses
+      Disk Encryption Sets
+      Disks
+      Elastic SANs
+      Azure Native Qumulo Scalable File Service (Partner)
+      Azure NetApp Files
+      Snapshots
+      Storage accounts
+      Storage browser
+
+  Storage migration
+      Azure Data Box  
+      Storage movers
+      
+  Additional storage services
+      Data Lake Storage Gen1
+      HPC caches
+      Azure Managed Lustre
+      Storage Sync Services
+
+
+
+All services
+
+Web & Mobile
+
+  API Management
+      API Connections
+      API Management serv
+
+  Application infrastructure
+      App Configuration
+      App Service Certificates
+      App Service Domains
+      App Service Environments
+      App Service plans
+      Application Insights
+
+  Application management
+      App Services
+      App Spaces (preview)
+      Container Apps
+      Function App
+      Logic apps
+      Azure Spring Apps
+      Static Web Apps
+
+  Media services and search
+      AI Search
+      Media Services
+
+  Messaging and notifications
+      Communication Services
+      Email Communication Services
+      Fluid Relay
+      Notification Hubs
+      SignalR
+      Virtual Appointments Builder
+      Web PubSub for Socket.IO
+      Web PubSub Service
+
+  Additional web + mobile services
+      Community Training
+
+      
       
