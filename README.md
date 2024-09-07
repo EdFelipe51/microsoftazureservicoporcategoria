@@ -2,7 +2,9 @@
 
 // Listagem de serviços por catergoria no AMBIENTE AZURE MICROSOFT - DESAFIO DIO (Microsoft Azure - Localizando Serviços por Categoria)
 
-// Serviços com a condição (PARTNER) = Pode referir-se a um serviço fornecido por um parceiro CSP ou a um parceiro da Microsoft
+
+// Serviços com a condição (PARTNER) = Pode referir-se a um serviço fornecido por um parceiro CSP ou a um parceiro da Microsoft;
+
 // Serviços com a condição (Preview) = As versões prévias dos recursos/serviços permitem que você opte pela nova funcionalidade antes que ela seja liberada. Algumas versões prévias dos recursos estão disponíveis para     
    qualquer pessoa que queira aceitar. Outras versões prévias dos recursos exigem aprovação da equipe do produto.
 
