@@ -252,5 +252,89 @@ General
 
 
 
+All services
+
+Hybrid
+
+  Hybrid and multi-cloud management
+      Azure Arc
+      Azure Arc data controllers
+      Custom locations
+      Guest Assignments
+      Microsoft Entra ID
+      Azure Network Function Manager – Devices
+      Resource bridges
+      SCVMM management servers
+      Site manager - Azure Arc (Preview)
+      VMware vCenters
+
+  Infrastructure & network
+      Azure Arc Private Link Scopes
+      Azure Edge Hardware Center
+      ExpressRoute circuits
+      Machines - Azure Arc
+      Operator Nexus
+      SQL Server - Azure Arc
+      Azure Stack HCI
+      Virtual WANs
+
+  Data services
+      PostgreSQL servers – Azure Arc (Preview)
+      Azure SQL
+      SQL managed instances - Azure Arc
+      SQL Server databases - Azur
+
+  Identity
+      Microsoft Entra Connect
+      Microsoft Entra Connect Health
+
+  Security
+      Microsoft Defender for Cloud
+      Microsoft Sentinel
 
 
+
+All services
+
+Identity
+
+  Hybrid identity management
+      Microsoft Entra Connect
+      Microsoft Entra Connect Health
+
+  Identity as a service
+      Azure AD B2C
+      B2C Tenants
+      Enterprise applications
+      External Identities
+
+  Identity management
+      Access Connector for Azure Databricks
+      App registrations
+      External Configuration Tenant
+      Guest Usages
+      Managed Identities
+      Microsoft Entra Domain Services
+      Microsoft Entra ID
+      Microsoft Entra Privileged Identity Management
+
+  Security and protection
+      Identity Governance
+      Microsoft Entra ID Protection
+      Microsoft Entra ID Security
+      Verified ID
+
+All services
+
+Integration
+
+  Workflow and orchestration
+      Apache Airflow™ on Astro - An Azure Native ISV Service (Partner)
+      App Configuration
+      Integration accounts
+      Integration Service Environments
+      Logic apps
+      Logic Apps Custom Connector
+
+
+      
