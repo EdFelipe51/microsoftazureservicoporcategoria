@@ -1,14 +1,14 @@
 # microsoftazureservicoporcategoria
 
-All services 
+All services = 
 
-AI + Machine Learning
+AI + Machine Learning = 
 
-  Azure AI + Machine Learning platforms
+  / Azure AI + Machine Learning platforms =
       Azure AI Studio
       Azure Machine Learning
 
-  Azure AI services + APIs
+  / Azure AI services + APIs =
       AI Search
       Azure AI services
       Azure AI services multi-service account
@@ -28,17 +28,18 @@ AI + Machine Learning
       Speech services
       Translators
 
-  Industry Machine Learning solutions
+  / Industry Machine Learning solutions =
       Intelligent Recommendations Accounts
       Azure Synapse Analytics
 
 
 
-All services
 
-Analytics
+All services =
 
-  Big data processing
+Analytics =
+
+  / Big data processing =
       Analysis Services
       Apache Airflow™ on Astro - An Azure Native ISV Service (Partner)
       Data factories
@@ -50,14 +51,14 @@ Analytics
       Informatica Intelligent Data Management Cloud - An Azure Native ISV Service (Partner)
       Microsoft Graph Data Connect (Preview)
 
-  Data exploration
+  / Data exploration =
       Data Catalog
       Azure Data Explorer Clusters
       Data Share Invitations
       Data Shares
       Power BI Embedded
 
-  Real-time analytics
+  / Real-time analytics =
       Apache Kafka® & Apache Flink® on Confluent Cloud™ - An Azure Native ISV Service (Partner)
       Event Hubs
       Log Analytics workspaces
@@ -69,11 +70,12 @@ Analytics
 
 
 
-All services
 
-Compute
+All services =
 
-  Infrastructure as a Service (IaaS)
+Compute =
+
+  / Infrastructure as a Service (IaaS) =
       Availability sets
       Community images
       Compute Fleet
@@ -94,42 +96,43 @@ Compute
       VM image definitions
       VM image versions
     
-  Platform as a Service (PaaS)  
+  / Platform as a Service (PaaS) =
       App Services
       Cloud services (extended support)  
       Azure Spring Apps
       Virtual Instances for SAP solutions
       Azure VMware Solution
 
-  Serverless and microservices
+  / Serverless and microservices =
       Container Apps
       Container Apps Environments
       Function App
       Kubernetes services
       Kubernetes services - Automatic (Preview)
 
-  High performance computing
+  / High performance computing =
       BareMetal Instances
       Batch accounts
       Genomics accounts
       Quantum Workspaces (Preview)
       SAP HANA on Azure (Preview)
 
-  Hybrid cloud
+  / Hybrid cloud =
       Azure Arc
       Machines - Azure Arc
 
 
 
-All services
 
-Containers
+All services = 
 
-  Container infrastructure
+Containers =
+
+  / Container infrastructure =
       Container instances
       Container registries      
 
-  Container management
+  / Container management = 
       Kubernetes fleet manager
       Kubernetes services
       Kubernetes services - Automatic (Preview)
@@ -137,7 +140,7 @@ Containers
       Service Fabric clusters
       Service Fabric managed clusters
 
-  Containerized applications
+  / Containerized applications = 
       App Configuration
       Container App Jobs
       Container Apps
@@ -149,12 +152,12 @@ All services
 
 Databases
    
-  Build new applications
+ / Build new applications =
       Azure Cosmos DB
       Azure Database for PostgreSQL flexible servers
       Azure SQL Database Hyperscale
 
-  Modernize existing applications
+ / Modernize existing applications =
       Azure Cosmos DB for MongoDB (vCore)
       Azure Database for MySQL flexible servers
       Azure Managed Instance for Apache Cassandra
@@ -163,13 +166,13 @@ Databases
       SQL managed instances
       SQL virtual machines
 
-  Hybrid data services
+ / Hybrid data services =
       Azure Arc data controllers
       PostgreSQL servers – Azure Arc (Preview)
       SQL managed instances - Azure Arc
       SQL Server - Azure Arc
-
-  Additional data services
+ 
+ / Additional data services =
       Azure Cache for Redis
       Azure Database Migration Services
       Elastic Job agents
@@ -178,11 +181,12 @@ Databases
 
 
 
+
 All services
 
 DevOps
 
-  DevOps tools
+  / DevOps tools =
       Chaos Experiments
       Chaos Studio
       Azure Deployment Environments
@@ -199,12 +203,12 @@ DevOps
       Projects
       Targets Management
 
-  Integration
+  / Integration =
       API Connections
       API Management services
       App Configuration
 
-  Monitoring
+  / Monitoring =
       Application Insights
       Datadog - An Azure Native ISV Service (Partner)
       Elastic Cloud (Elasticsearch) – An Azure Native ISV Service (Partner)
@@ -214,11 +218,12 @@ DevOps
 
 
 
+
 All services
 
 General
 
-  Azure Resource Management
+  / Azure Resource Management =
       All resources
       Dashboard hub (Preview)
       Deploy a custom template
@@ -235,7 +240,7 @@ General
       Templates (Preview)
       Virtual Instances for SAP solutions
 
-  Billing
+  / Billing =
       Cost Management + Billing
       Free services
       Quotas
@@ -246,9 +251,10 @@ General
       Preview features (Preview) 
       Quickstart Center
 
-  Help and support
+  / Help and support =
       Help + support
       Service Health
+
 
 
 
@@ -256,7 +262,7 @@ All services
 
 Hybrid
 
-  Hybrid and multi-cloud management
+  / Hybrid and multi-cloud management =
       Azure Arc
       Azure Arc data controllers
       Custom locations
@@ -268,7 +274,7 @@ Hybrid
       Site manager - Azure Arc (Preview)
       VMware vCenters
 
-  Infrastructure & network
+  / Infrastructure & network =
       Azure Arc Private Link Scopes
       Azure Edge Hardware Center
       ExpressRoute circuits
@@ -278,19 +284,20 @@ Hybrid
       Azure Stack HCI
       Virtual WANs
 
-  Data services
+  / Data services =
       PostgreSQL servers – Azure Arc (Preview)
       Azure SQL
       SQL managed instances - Azure Arc
       SQL Server databases - Azur
 
-  Identity
+  / Identity =
       Microsoft Entra Connect
       Microsoft Entra Connect Health
 
-  Security
+  / Security =
       Microsoft Defender for Cloud
       Microsoft Sentinel
+
 
 
 
@@ -298,17 +305,17 @@ All services
 
 Identity
 
-  Hybrid identity management
+  / Hybrid identity management =
       Microsoft Entra Connect
       Microsoft Entra Connect Health
 
-  Identity as a service
+  / Identity as a service =
       Azure AD B2C
       B2C Tenants
       Enterprise applications
       External Identities
 
-  Identity management
+  / Identity management =
       Access Connector for Azure Databricks
       App registrations
       External Configuration Tenant
@@ -318,7 +325,7 @@ Identity
       Microsoft Entra ID
       Microsoft Entra Privileged Identity Management
 
-  Security and protection
+  / Security and protection =
       Identity Governance
       Microsoft Entra ID Protection
       Microsoft Entra ID Security
@@ -330,7 +337,7 @@ All services
 
 Integration
 
-  Workflow and orchestration
+  / Workflow and orchestration =
       Apache Airflow™ on Astro - An Azure Native ISV Service (Partner)
       App Configuration
       Integration accounts
@@ -338,14 +345,14 @@ Integration
       Logic apps
       Logic Apps Custom Connector
 
-  API Management
+  / API Management =
       API Connections
       Azure API for FHIR
       API Management services
       FHIR service
       Health Data Services workspace
 
-  Messaging services
+  / Messaging services =
       Apache Kafka® & Apache Flink® on Confluent Cloud™ - An Azure Native ISV Service (Partner)
       Event Grid
       Event Hubs
@@ -355,20 +362,21 @@ Integration
 
 
 
+
 All services
 
 Internet of things
 
-  Build your IoT solution
+  / Build your IoT solution =
       IoT Central Applications
       IoT Hub
 
-  Connect and manage devices
+  / Connect and manage devices =
       Device Update for IoT Hubs
       Azure IoT Hub Device Provisioning Services
       Microsoft Defender for IoT
 
-  Analyze and transform data
+  / Analyze and transform data =
       Azure Cosmos DB
       Azure Data Explorer Clusters
       Azure Digital Twins
@@ -378,7 +386,7 @@ Internet of things
       Stream Analytics jobs
       Azure Synapse Analytics
  
-  Integrate business and AI solutions
+  / Integrate business and AI solutions =
       Azure AI services
       Logic apps
       Azure Machine Learning
@@ -389,11 +397,12 @@ Internet of things
 
 
 
+
 All services
 
 Management and governance
 
-  Azure Resource Management
+  / Azure Resource Management =
       Azure Center for SAP solutions
       Change Analysis
       Deployment Scripts
@@ -411,10 +420,10 @@ Management and governance
       Templates (Preview)
       Virtual Instances for SAP solutions
 
-  Copilot for Azure
+  / Copilot for Azure =
       Copilot in Azure admin center (Preview)
 
-  Azure governance and optimization
+  / Azure governance and optimization =
       Advisor
       Automanage
       Automation Accounts
@@ -426,23 +435,23 @@ Management and governance
       Policy
       Azure Update Manager
 
-  Hybrid management and governance
+  / Hybrid management and governance =
       Azure Arc
       Machines - Azure Arc
       Microsoft Purview accounts
 
-  Service provider tools
+  / Service provider tools =
       Customer Lockbox for Microsoft Azure
       Azure Lighthouse
       Managed applications center (Preview)
 
-  Device management
+  / Device management =
       Intune
       Intune for Education
       Managed Desktop
       Universal Print
 
-  Business continuity and disaster recovery
+  / Business continuity and disaster recovery =
       Backup center
       Backup vaults
       Business Continuity Center (Preview)
@@ -451,24 +460,26 @@ Management and governance
 
 
 
+
 All services
 
 Migrate
 
-  Migration tools
+  / Migration tools =
       Azure Database Migration Services
       Azure Migrate
 
-  Data protection
+  / Data protection =
       Azure Data Box
       Recovery Services vaults
       Azure Stack Edge / Data Box Gateway
 
 
 
+
 All services
 
-Mixed Reality
+/ Mixed Reality =
 
       Object Anchors Accounts
       Remote Rendering Accounts
@@ -476,11 +487,12 @@ Mixed Reality
 
 
 
+
 All services
 
 Monitor
 
-  Detection, triage, and diagnosis
+  / Detection, triage, and diagnosis =
       Alerts
       Autoscale
       Change Analysis
@@ -492,10 +504,10 @@ Monitor
       Azure Native Dynatrace Service (Partner)
       Azure Workbooks
 
-  Insights
+  / Insights =
       Application Insights
 
-  Monitoring tools
+  / Monitoring tools V
       Activity log
       Data collection endpoints
       Data collection rules
@@ -512,11 +524,12 @@ Monitor
 
 
 
+
 All services
 
 Networking
 
-  Network foundation
+  / Network foundation =
       Bastions
       Custom IP Prefixes
       DNS private resolvers
@@ -531,7 +544,7 @@ Networking
       Route tables
       Virtual networks
 
-  Hybrid connectivity
+   Hybrid connectivity =
       Communications Gateways  
       Connections
       ExpressRoute circuits
@@ -543,7 +556,7 @@ Networking
       Virtual network gateways
       Virtual WANs
 
-  Network security
+  / Network security =
       DDoS protection plans
       Firewall Manager
       Firewalls
@@ -552,21 +565,22 @@ Networking
       Network Security Perimeters (Preview)
       Web Application Firewall policies (WAF)
 
-  Load balancing
+  / Load balancing =
       Application gateways
       Load balancers
       Load balancing - help me choose
 
-  Content delivery
+  / Content delivery =
       Front Door and CDN profiles
       Microsoft Connected Cache for Internet Service Providers
 
-  Monitoring
+  / Monitoring =
       Monitor
       Network Watcher
 
-  Additional networking services
+  / Additional networking services =
       NGINXaaS (Partner)
+
 
 
 
@@ -574,14 +588,14 @@ All services
 
 Security
 
-  Data and application security
+  / Data and application security =
       App Compliance Automation Tool for Microsoft 365 (Preview)
       Application security groups
       Confidential Ledgers
       Log Analytics workspaces
       Web Application Firewall policies (WAF)
 
-  Identity and access control
+  / Identity and access control =
       Microsoft Entra Domain Services
       Microsoft Entra ID
       Microsoft Entra ID Security
@@ -589,7 +603,7 @@ Security
       Multifactor authentication
       Trusted Signing Accounts (Preview)
 
-  Infrastructure and network security
+   / Infrastructure and network security =
       Application gateways
       DDoS protection plans
       Firewalls
@@ -597,9 +611,7 @@ Security
       Network Security Perimeters (Preview)
       Virtual network gateways   
 
-
-
-   Threat detection and protection
+   / Threat detection and protection =
       Microsoft Defender EASM
       Microsoft Defender for Cloud
       Microsoft Defender for IoT
@@ -607,15 +619,16 @@ Security
 
 
 
+
 All services
 
 Storage
 
-  Hybrid and edge storage
+  / Hybrid and edge storage =
       Azure Edge Hardware Center
       Azure Stack Edge / Data Box Gateway
 
-  Object, file, and block storage
+  / Object, file, and block storage =
       Disk Accesses
       Disk Encryption Sets
       Disks
@@ -626,11 +639,11 @@ Storage
       Storage accounts
       Storage browser
 
-  Storage migration
+  / Storage migration =
       Azure Data Box  
       Storage movers
       
-  Additional storage services
+  / Additional storage services =
       Data Lake Storage Gen1
       HPC caches
       Azure Managed Lustre
@@ -638,15 +651,16 @@ Storage
 
 
 
+
 All services
 
 Web & Mobile
 
-  API Management
+  / API Management =
       API Connections
       API Management serv
 
-  Application infrastructure
+  / Application infrastructure =
       App Configuration
       App Service Certificates
       App Service Domains
@@ -654,7 +668,7 @@ Web & Mobile
       App Service plans
       Application Insights
 
-  Application management
+  / Application management =
       App Services
       App Spaces (preview)
       Container Apps
@@ -663,11 +677,11 @@ Web & Mobile
       Azure Spring Apps
       Static Web Apps
 
-  Media services and search
+  / Media services and search =
       AI Search
       Media Services
 
-  Messaging and notifications
+  / Messaging and notifications =
       Communication Services
       Email Communication Services
       Fluid Relay
@@ -677,7 +691,7 @@ Web & Mobile
       Web PubSub for Socket.IO
       Web PubSub Service
 
-  Additional web + mobile services
+  / Additional web + mobile services = 
       Community Training
 
       
